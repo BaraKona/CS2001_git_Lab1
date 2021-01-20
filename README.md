@@ -517,3 +517,8 @@ Student ID | Movie | Year of Release
 1839606 | Wardogs | 2016
 1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
+1945482 | Tenet | 2020
+1945482 | Dunkirk | 2017
+1945482 | Your Name | 2016
+1945482 | The Last: Naruto The Movie | 2014
+1945482 | Venom | 2018
